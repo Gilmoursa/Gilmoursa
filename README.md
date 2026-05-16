@@ -42,6 +42,6 @@ Projects I've contributed to:
 ### GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gilmoursa&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Austin's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilmoursa&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="Austin's GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
