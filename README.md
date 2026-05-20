@@ -9,27 +9,27 @@ I spend my free time contributing to open source projects, self-hosting everythi
 
 ### Tech I work with
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Self-hosted stack
 
-![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white)
-![Plex](https://img.shields.io/badge/Plex-E5A00D?style=flat-square&logo=plex&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Homarr](https://img.shields.io/badge/Homarr-FA8231?style=flat-square&logo=homarr&logoColor=white)
-![Radarr](https://img.shields.io/badge/Radarr-FEDB4A?style=flat-square&logo=radarr&logoColor=black)
-![Sonarr](https://img.shields.io/badge/Sonarr-35C5F4?style=flat-square&logo=sonarr&logoColor=black)
-![Prowlarr](https://img.shields.io/badge/Prowlarr-FF9671?style=flat-square&logoColor=white)
-![AdGuard](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
+[![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white)](https://unraid.net)
+[![Plex](https://img.shields.io/badge/Plex-E5A00D?style=flat-square&logo=plex&logoColor=black)](https://www.plex.tv)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Homarr](https://img.shields.io/badge/Homarr-FA8231?style=flat-square&logo=homarr&logoColor=white)](https://homarr.dev)
+[![Radarr](https://img.shields.io/badge/Radarr-FEDB4A?style=flat-square&logo=radarr&logoColor=black)](https://radarr.video)
+[![Sonarr](https://img.shields.io/badge/Sonarr-35C5F4?style=flat-square&logo=sonarr&logoColor=black)](https://sonarr.tv)
+[![Prowlarr](https://img.shields.io/badge/Prowlarr-FF9671?style=flat-square&logoColor=white)](https://prowlarr.com)
+[![AdGuard](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)](https://adguard.com/en/adguard-home/overview.html)
+[![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)](https://pi-hole.net)
 
 ---
 
