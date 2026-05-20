@@ -23,9 +23,13 @@ I spend my free time contributing to open source projects, self-hosting everythi
 
 ![Unraid](https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white)
 ![Plex](https://img.shields.io/badge/Plex-E5A00D?style=flat-square&logo=plex&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Homarr](https://img.shields.io/badge/Homarr-FA8231?style=flat-square&logo=homarr&logoColor=white)
+![Radarr](https://img.shields.io/badge/Radarr-FEDB4A?style=flat-square&logo=radarr&logoColor=black)
+![Sonarr](https://img.shields.io/badge/Sonarr-35C5F4?style=flat-square&logo=sonarr&logoColor=black)
+![Prowlarr](https://img.shields.io/badge/Prowlarr-FF9671?style=flat-square&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
